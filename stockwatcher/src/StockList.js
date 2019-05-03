@@ -40,7 +40,7 @@ class StockList extends Component {
         <table>
           <thead>
             <tr>
-              <th>Code</th>
+              <th>Symbol</th>
               <th>Name</th>
               <th>Exchange</th>
               <th>Category</th>
