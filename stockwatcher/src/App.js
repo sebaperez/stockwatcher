@@ -13,7 +13,7 @@ class App extends Component {
     this.state = { stocks: localStorageData || [] }
   }
   addStock = (code) => {
-    this.ref.StockList.addStock(code);
+    this.refs.StockList.addStock(code);
   }
   updateAll = () => {
     this.refs.StockList.updateAll();
