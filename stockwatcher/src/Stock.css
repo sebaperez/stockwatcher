@@ -1,0 +1,12 @@
+td.positive {
+  color: #00df69;
+}
+td.neutral {
+  color: #008edf;
+}
+td.negative {
+  color: #df0025;
+}
+td.lastUpdate {
+  color: #ababab;
+}

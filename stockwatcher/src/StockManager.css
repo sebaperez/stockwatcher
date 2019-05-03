@@ -1,0 +1,19 @@
+.StockManager {
+  border-bottom: 1px solid #ccc;
+  padding: 5px 0;
+}
+.StockManager input {
+  margin: 0 5px;
+}
+.StockManager #updateManager {
+  float: right;
+}
+.StockManager #autoUpdate {
+  font-size: 10px;
+}
+.StockManager #autoUpdate input {
+  width: 30px;
+}
+.StockManager #updateAll {
+  margin-left: 20px;
+}
